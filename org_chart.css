@@ -84,7 +84,7 @@ right connector from last child*/
         text-decoration: none;
         color: #666;
         font-family: arial, verdana, tahoma;
-        font-size: 24px;
+        font-size: 24px; /* 字型大小 */
         display: inline-block;
         border-radius: 5px;
         -webkit-border-radius: 5px;
